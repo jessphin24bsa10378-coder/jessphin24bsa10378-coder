@@ -1,9 +1,38 @@
-<a href="https://github.com/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;B.Tech+CSE+%40+VIT;PyTorch+%7C+Computer+Vision" alt="Typing SVG" />
-</a>
+<div align="center">
+  <!-- Replace the src link below with your actual black hole explosion GIF link -->
+  <img src="https://media.giphy.com/media/placeholder-blackhole-explosion/giphy.gif" alt="Black Hole Explosion" width="800"/>
 
-<br><br>
+  # Hi, I'm Jessphin Joy 👋
+  
+  ### ☁️ Cloud Computing | 🧠 Data Science | 🚀 Innovator
+</div>
 
-<p align="center">
-  <img src="./assets/teen-robot.gif" width="600" alt="Teenager chilling with a robot">
-</p>
+---
+
+### 👨‍💻 About Me
+The dust has settled. Here is what emerged:
+
+- 🎓 **Dual Degree Path:** Pursuing a B.Tech in CSE (Cloud Computing & Automation) at **VIT Bhopal** & a BS in Data Science at **IIT Madras**.
+- 🏢 **Entrepreneurship:** Co-founder and Board Member at **Joyphene Sustainable Innovations (P) Ltd.**, focusing on advanced materials and graphene applications.
+- 💡 **Innovation:** Co-inventor on a US Patent for zinc-based battery energy storage technology.
+- 📈 **Experience:** Former Data Analyst Intern at Goldman Sachs, Bangalore.
+
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** C, C++, Java, Python, JavaScript, SQL
+* **Web Development:** HTML, CSS, React, Node.js, Express
+* **Cloud & Infrastructure:** AWS (EC2, S3, Lambda, CloudFormation), CloudSim
+* **AI & Data Science:** PyTorch, Pandas, Google Colab
+* **Databases:** MongoDB
+* **Tools:** VS Code, Eclipse IDE, Conda, Homebrew, Git/GitHub
+
+### ⚡ Recent Projects
+- **LungScope AI:** Hybrid edge-cloud CNN architecture for detecting pneumonia and tuberculosis from chest X-rays.
+- **StudySync:** Lead UI/UX & Frontend Developer for a cloud-based study and productivity tracker.
+- **Academic Grade Analytics System:** Automated object-oriented Java reporting system.
+
+<br/>
+
+<div align="center">
+  <i>Let's connect and build the future.</i>
+</div>
