@@ -5,5 +5,5 @@
 <br>
 
 <p align="center">
-  <img src="YOUR_ANIMATION_GIF_URL_HERE" width="600" alt="Teenager chilling with a robot">
+  <img src="https://miro.medium.com/v2/resize%3Afit%3A1400/1%2APWzfcFNx5AI5aiGRqWZ7Pg.jpeg" width="600" alt="Teenager chilling with AI robot">
 </p>
