@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;B.Tech+CSE+%40+VIT;PyTorch+%7C+Computer+Vision" alt="Typing SVG" />
 </a>
 
-<br>
+<br><br>
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize%3Afit%3A1400/1%2APWzfcFNx5AI5aiGRqWZ7Pg.jpeg" width="600" alt="Teenager chilling with AI robot">
+  <img src="./assets/teen-robot.gif" width="600" alt="Teenager chilling with a robot">
 </p>
